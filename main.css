@@ -1,0 +1,22 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'fredericka the great';
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    color: #eceaea;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background: radial-gradient(circle closest-side at 50% 80%, #535353, #111 300%) no-repeat;
+}
