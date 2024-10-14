@@ -39,7 +39,7 @@
 .md, .md .back {
     background-image:
     radial-gradient(
-    circle closest-side, black, #e4dacc 300%);
+    circle closest-side,#06191d, rgb(242, 227, 19)300%,#F2CD13);
 }
 .sf, .sf .back {
     background-image:
@@ -59,7 +59,7 @@
 .st, .st .back {
     background-image:
     radial-gradient(
-    circle closest-side, #1d1818, #F24B6A 300%, #498BA6, #F2DD72);
+    circle closest-side, black, #264de4 300%);
 }
 h2 {
     margin: auto 0;
