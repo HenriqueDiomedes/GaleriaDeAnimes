@@ -29,7 +29,7 @@
 .cz, .cz .back {
     background-image:
     radial-gradient(
-    circle closest-side,#06191d, rgb(242, 227, 19)300%,#F2CD13, #F2AB27, #f27b35);
+    circle closest-side,#06191d, rgb(242, 227, 19)300%,#F2CD13, #F2AB27);
 }
 .yk, .yk .back {
     background-image:
@@ -49,17 +49,17 @@
 .db, .db .back {
     background-image:
     radial-gradient(
-    circle closest-side, #1d1818, #73020C 300%, #F2E205, #F2CB07, #D98E04);
+    circle closest-side, #1d1818, #73020C 300%, #F2E205, #F2CB07);
 }
 .mk, .mk .back {
     background-image:
     radial-gradient(
-    circle closest-side, #1d1818, #73020C 300%, #F2E205, #F2CB07, #D98E04);
+    circle closest-side, #1d1818, #73020C 300%, #F2E205, #F2CB07);
 }
 .st, .st .back {
     background-image:
     radial-gradient(
-    circle closest-side, #1d1818, #F24B6A 300%, #498BA6, #F2DD72, #D98E04);
+    circle closest-side, #1d1818, #F24B6A 300%, #498BA6, #F2DD72);
 }
 h2 {
     margin: auto 0;
